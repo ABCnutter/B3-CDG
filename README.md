@@ -1,4 +1,4 @@
-# B^3^-CDG: A Pseudo-Sample Diffusion Generator for Bi-temporal Building Binary Change Detection
+# B<sup>3</sup>-CDG: A Pseudo-Sample Diffusion Generator for Bi-temporal Building Binary Change Detection
 
 Peng Chen, Peixian Lia*, Bing Wang, Sihai Zhao, Yongliang Zhang, Tao Zhang，Xingcheng Ding
 
