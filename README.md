@@ -4,7 +4,7 @@ Peng Chen, Peixian Lia*, Bing Wang, Sihai Zhao, Yongliang Zhang, Tao Zhang，Xin
 
 [[`Paper`](....)]  [[`Dataset`](...)] [[`App`](...)]
 
-![RC](E:\CS\DL\Paper\B3-CDG\README.assets\RC.png)
+![RC](./README.assets/RC.png)
 
 ## Latest updates
 
