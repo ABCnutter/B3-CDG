@@ -11,6 +11,7 @@ Peng Chen, Peixian Li*, Bing Wang, Sihai Zhao, Yongliang Zhang, Tao Zhang，Xing
 We are pleased to announce that the source code and related datasets for our paper, **[B<sup>3</sup>-CDG: A Pseudo-Sample Diffusion Generator for Bi-temporal Building Binary Change Detection]**, will be made available shortly.
 
 ### Contents
+![image](https://github.com/user-attachments/assets/151b85a8-ab15-444e-b712-3b3dd12e10fc)
 
 - **Source Code:** This includes the implementation details and instructions for reproducing our results.
 - **Datasets:** The datasets used in our study will be provided to facilitate further research and validation.
