@@ -2,7 +2,7 @@
 
 Peng Chen, Peixian Li*, Bing Wang, Sihai Zhao, Yongliang Zhang, Tao Zhang，Xingcheng Ding
 
-[[`Paper`](....)]  [[`Dataset`](...)] [[`App`](...)]
+[[`Paper`](https://www.sciencedirect.com/science/article/pii/S0924271624003988#s0125)]  [[`Dataset`](...)] [[`App`](...)]
 
 ![RC](./README.assets/1.png)
 
@@ -17,3 +17,4 @@ We are pleased to announce that the source code and related datasets for our pap
 - **App:** A user-friendly application for running inferences based on our models will also be included.
 
 **Thank you for your interest in our work!**
+
