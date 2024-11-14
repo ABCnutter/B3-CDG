@@ -8,7 +8,7 @@ Peng Chen, Peixian Li*, Bing Wang, Sihai Zhao, Yongliang Zhang, Tao Zhang，Xing
 
 ## Latest updates
 
-We are pleased to announce that the source code and related datasets for our ISPRS paper, **[B<sup>3</sup>-CDG: A Pseudo-Sample Diffusion Generator for Bi-temporal Building Binary Change Detection]**, will be made available shortly.
+We are pleased to announce that the source code and related datasets for our **ISPRS** paper, **[B<sup>3</sup>-CDG: A Pseudo-Sample Diffusion Generator for Bi-temporal Building Binary Change Detection]**, will be made available shortly.
 
 ### Contents
 ![image](https://github.com/user-attachments/assets/151b85a8-ab15-444e-b712-3b3dd12e10fc)
